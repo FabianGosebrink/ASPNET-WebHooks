@@ -1,0 +1,7 @@
+﻿{
+  "ProviderId": "AspNet.WebHooks.ConnectedService",
+  "Version": "1.0.0",
+  "GettingStartedDocument": {
+    "Uri": "http://blogs.msdn.com/b/webdev/archive/2015/09/04/introducing-microsoft-asp-net-webhooks-preview.aspx"
+  }
+}
